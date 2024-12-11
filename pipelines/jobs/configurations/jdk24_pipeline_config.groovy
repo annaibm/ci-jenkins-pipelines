@@ -50,8 +50,6 @@ class Config24 {
                                 'special.openjdk',
                                 'special.system',
                                 'dev.functional',
-                                'sanity.external',
-                                'dev.openjdk',
                                 'sanity.jck.fips140_2',
                                 'extended.jck.fips140_2',
                                 'special.jck.fips140_2',
@@ -78,14 +76,7 @@ class Config24 {
                                 'special.functional',
                                 'special.jck',
                                 'special.openjdk',
-                                'special.system',
-                                'sanity.jck.fips140_2',
-                                'extended.jck.fips140_2',
-                                'special.jck.fips140_2',
-                                'sanity.openjdk.fips140_2',
-                                'extended.openjdk.fips140_2',
-                                'sanity.openjdk.fips140_3_OpenJCEPlusFIPS',
-                                'extended.openjdk.fips140_3_OpenJCEPlusFIPS'
+                                'special.system'
                         ]
                 ],
                 additionalTestLabels: [
@@ -219,6 +210,7 @@ class Config24 {
                                 'special.jck',
                                 'special.openjdk',
                                 'special.system',
+								'dev.functional',
                                 'extended.functional.fips140_3_OpenJCEPlusFIPS',
                                 'sanity.jck.fips140_3_OpenJCEPlusFIPS',
                                 'extended.jck.fips140_3_OpenJCEPlusFIPS',
@@ -240,9 +232,7 @@ class Config24 {
                                 'special.functional',
                                 'special.jck',
                                 'special.openjdk',
-                                'special.system',
-                                'sanity.openjdk.fips140_3_OpenJCEPlusFIPS',
-                                'extended.openjdk.fips140_3_OpenJCEPlusFIPS'
+                                'special.system'
                         ]
                 ],
                 additionalTestLabels: [
@@ -285,8 +275,6 @@ class Config24 {
                                 'special.openjdk',
                                 'special.system',
                                 'dev.functional',
-                                'sanity.external',
-                                'dev.openjdk',
                                 'sanity.jck.fips140_2',
                                 'extended.jck.fips140_2',
                                 'special.jck.fips140_2',
@@ -313,14 +301,7 @@ class Config24 {
                                 'special.functional',
                                 'special.jck',
                                 'special.openjdk',
-                                'special.system',
-                                'sanity.jck.fips140_2',
-                                'extended.jck.fips140_2',
-                                'special.jck.fips140_2',
-                                'sanity.openjdk.fips140_2',
-                                'extended.openjdk.fips140_2',
-                                'sanity.openjdk.fips140_3_OpenJCEPlusFIPS',
-                                'extended.openjdk.fips140_3_OpenJCEPlusFIPS'
+                                'special.system'
                         ]
                 ],
                 buildArgs           : [
@@ -359,8 +340,6 @@ class Config24 {
                                 'special.openjdk',
                                 'special.system',
                                 'dev.functional',
-                                'sanity.external',
-                                'dev.openjdk',
                                 'sanity.jck.fips140_2',
                                 'extended.jck.fips140_2',
                                 'special.jck.fips140_2',
@@ -387,14 +366,7 @@ class Config24 {
                                 'special.functional',
                                 'special.jck',
                                 'special.openjdk',
-                                'special.system',
-                                'sanity.jck.fips140_2',
-                                'extended.jck.fips140_2',
-                                'special.jck.fips140_2',
-                                'sanity.openjdk.fips140_2',
-                                'extended.openjdk.fips140_2',
-                                'sanity.openjdk.fips140_3_OpenJCEPlusFIPS',
-                                'extended.openjdk.fips140_3_OpenJCEPlusFIPS'
+                                'special.system'
                         ]
                 ],
                 configureArgs       : [
