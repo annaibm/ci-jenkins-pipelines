@@ -210,7 +210,7 @@ class Config24 {
                                 'special.jck',
                                 'special.openjdk',
                                 'special.system',
-								'dev.functional',
+                                'dev.functional',
                                 'extended.functional.fips140_3_OpenJCEPlusFIPS',
                                 'sanity.jck.fips140_3_OpenJCEPlusFIPS',
                                 'extended.jck.fips140_3_OpenJCEPlusFIPS',
